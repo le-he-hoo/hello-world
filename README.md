@@ -10,3 +10,6 @@ hello-world repository
 	  printf("Hello world\n");
 	  return 0;
 	}
+
+Here's some C code for a hello-world program.
+
